@@ -2,7 +2,7 @@
 
 * ### Child of Light - Story Trailer
 
-  We like this game because it looks like a storytale, and that's more or less the style we're looking for.
+  Child of Light is a game made by Ubisoft Montreal and published by Ubisoft, it is a platform and rol game, however, we want to talk about their animations and their style, we love it because it looks like a storytale, and that's more or less the style we're looking for.
   You can also hear a voice saying some verse just like we want to do.
 
   https://www.youtube.com/watch?v=CYOfW-ae5sk
@@ -13,7 +13,7 @@
 
 * ### Lemony Snicket's A Series of Unfortunate Events
 
-  We love the art style in this animation, we would like to create something with this dark style but mixing 3D and 2D.
+  Lemony Snicket is an american novelist called Daniel Handler, we love the art style in this animation, we would like to create something with this dark style but mixing 3D and 2D.
 
   https://www.youtube.com/watch?v=JoBnHYKcCRU
 
@@ -22,7 +22,7 @@
 
 * ### Alice Madness Returns
 
-  These are game's cinematics in 2D, we like its style
+ Alice Madness Returns is a game developed by Spicy Horse and published by EA, these are game's cinematics in 2D, we like its style, we can also see that in this animation, they do some 3D effect with the 2D pictures.
 
   https://www.youtube.com/watch?v=9g8njk3xO64
 
