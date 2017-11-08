@@ -22,7 +22,7 @@
 
 * ### Alice Madness Returns
 
- Alice Madness Returns is a game developed by Spicy Horse and published by EA, these are game's cinematics in 2D, we like its style, we can also see that in this animation, they do some 3D effect with the 2D pictures.
+  Alice Madness Returns is a game developed by Spicy Horse and published by EA, these are game's cinematics in 2D, we like its style, we can also see that in this animation, they do some 3D effect with the 2D pictures.
 
   https://www.youtube.com/watch?v=9g8njk3xO64
 
