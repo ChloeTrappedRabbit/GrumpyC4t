@@ -1,9 +1,9 @@
-#References
+# References
 * Child of Light - Story Trailer
 We like this game because it looks like a storytale, and that's more or less the style we're looking for, you can also hear a voice saying some verse just like we want to do.
 https://www.youtube.com/watch?v=CYOfW-ae5sk
-![Image 1](/images/Captura1.png)
-![Image 2](/images/Captura2.png)
+(/images/Captura1.png)
+!(/images/Captura2.png)
 * Lemony Snicket's A Series of Unfortunate Events
 We love the art style in this animation, we would like to create something with this dark style but mixing 3D and 2D.
 https://www.youtube.com/watch?v=JoBnHYKcCRU
