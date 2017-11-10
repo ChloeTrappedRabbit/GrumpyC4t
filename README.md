@@ -1,5 +1,5 @@
 # GrumpyC4t
-### (PROJECT NAME) 
+### Unease 
 
 We are two students at CEV Barcelona, we're planning to do a 3D/2D animation, we will do 3D characters and some other stuff and the backgrounds are planned to be as 2D art.
 
