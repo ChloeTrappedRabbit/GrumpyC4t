@@ -11,3 +11,6 @@ For more information please visit our
  You can contact us by sending an email to the following directions:
  1. cmonteagudo1@hotmail.com
  1. ChloeTrappedRabbit@gmail.com
+
+### License:
+Unease uses a MIT license. See more information in [LICENSE](https://github.com/ChloeTrappedRabbit/GrumpyC4t/blob/master/LICENSE)
