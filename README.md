@@ -1,5 +1,5 @@
-# GrumpyC4t
-## Unease (Animation)
+![Banner](https://github.com/ChloeTrappedRabbit/GrumpyC4t/blob/master/WikiResources/UneaseBanner.png?raw=true
+)
 
 ### What is Unease?
 Unease is an animation we're planning to do in 3D/2D, we will do 3D characters and some other stuff and the backgrounds are planned to be as 2D art.
