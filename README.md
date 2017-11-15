@@ -13,4 +13,4 @@ For more information please visit our
  1. ChloeTrappedRabbit@gmail.com
 
 ### License:
-Unease uses a MIT license. See more information in [LICENSE](https://github.com/ChloeTrappedRabbit/GrumpyC4t/blob/master/LICENSE)
+Unease uses a Creative Common license. See more information in [LICENSE](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
